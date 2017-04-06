@@ -51,4 +51,4 @@ document.querySelector('.js_div').onclick = divRandom;
 //changement à chaque déplacement de souris :
 // document.querySelector('.js_div').onmousemove = divRandom;
 //changement à chaque seconde :
-myTimer=window.setInterval("divRandom()",10000);
+myTimer=window.setInterval("divRandom()",1000);
